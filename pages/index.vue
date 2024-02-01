@@ -1,7 +1,8 @@
 <template>
     <MainLayout>
 
-      <section class="container mx-auto" data-aos="fade-up" data-aos-duration="2000" data-aos-once="true">
+      <!-- <section class="container mx-auto" data-aos="fade-up" data-aos-duration="2000" data-aos-once="true"> -->
+      <section class="container mx-auto">
           <div class="mt-20 mb-20">
               <p class="text-center font-black text-3xl">Know Well</p>
               <p class="text-center font-thin text-sm px-5 pt-3 md:text-base">PayWell acts as a one-stop solution for various payments through a large network of outlets, providing users the most convenient way to pay. The retail outlets are available throughout the country and operate long hours to make it easier for users to pay and organizations to sell. You can visit nearby PayWell outlet to recharge your mobile phone, pay utility bills and fees, buy tickets and online products. Our uniquely strong combination of local shops, internet and distribution channels are simplifying payments every day, making it easier, secure and faster!</p>
