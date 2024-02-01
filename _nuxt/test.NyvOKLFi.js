@@ -1,1 +1,0 @@
-import t from"./MainLayout.GaX8d1pN.js";import{l as o,o as r}from"./swiper-vue.Zh5RqJbi.js";import"./Icon.mEvA--hS.js";import"./entry.pJ8DiIQU.js";import"./index.0wqzsba0.js";import"./nuxt-link.KHz92dI3.js";import"./logo-light.siK0moPk.js";const f={__name:"test",setup(p){return(e,m)=>(r(),o(t))}};export{f as default};
